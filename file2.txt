@@ -1,0 +1,6 @@
+this is file2
+a
+b
+c
+d
+
